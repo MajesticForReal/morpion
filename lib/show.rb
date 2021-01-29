@@ -1,6 +1,5 @@
 class Show
 
-  #Méthode pour afficher le plateau
   def show_board(board)
     puts
     puts "     1   2   3"
